@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\theda\\documents\\unreal projects\\campangit\\campanproto\\intermediate\\source\\campan.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\theda\\documents\\unreal projects\\campangit\\campanproto\\intermediate\\build\\win64\\campan\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\theda\\documents\\unreal projects\\campangit\\campanproto\\intermediate\\build\\win64\\unrealgame\\development\\campan\\definitions.campan.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
