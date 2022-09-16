@@ -38,7 +38,7 @@
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
 #define UE_LIVE_CODING_ENGINE_DIR "C:\\Program Files\\Epic Games\\UE_5.0\\Engine"
-#define UE_LIVE_CODING_PROJECT "C:\\Users\\theda\\Documents\\Unreal Projects\\CampanGit\\CampanProto\\Campan.uproject"
+#define UE_LIVE_CODING_PROJECT "C:\\Users\\theda\\Documents\\Unreal Projects\\CampanGit2\\CampanProto\\Campan.uproject"
 #define WITH_CPP_MODULES 0
 #define WITH_CPP_COROUTINES 0
 #define UBT_MODULE_MANIFEST "UnrealGame.modules"

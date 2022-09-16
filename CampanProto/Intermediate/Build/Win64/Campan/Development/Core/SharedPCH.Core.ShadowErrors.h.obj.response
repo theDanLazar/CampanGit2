@@ -1,4 +1,4 @@
-"C:\Users\theda\Documents\Unreal Projects\CampanGit\CampanProto\Intermediate\Build\Win64\Campan\Development\Core\SharedPCH.Core.ShadowErrors.cpp"
+"C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Intermediate\Build\Win64\Campan\Development\Core\SharedPCH.Core.ShadowErrors.cpp"
 /I .
 /I Runtime
 /I Runtime\TraceLog\Public
@@ -11,10 +11,10 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/Yc"C:\Users\theda\Documents\Unreal Projects\CampanGit\CampanProto\Intermediate\Build\Win64\Campan\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Fp"C:\Users\theda\Documents\Unreal Projects\CampanGit\CampanProto\Intermediate\Build\Win64\Campan\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
-/Fo"C:\Users\theda\Documents\Unreal Projects\CampanGit\CampanProto\Intermediate\Build\Win64\Campan\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
-/sourceDependencies "C:\Users\theda\Documents\Unreal Projects\CampanGit\CampanProto\Intermediate\Build\Win64\Campan\Development\Core\SharedPCH.Core.ShadowErrors.h.json"
+/Yc"C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Intermediate\Build\Win64\Campan\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Fp"C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Intermediate\Build\Win64\Campan\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
+/Fo"C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Intermediate\Build\Win64\Campan\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+/sourceDependencies "C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Intermediate\Build\Win64\Campan\Development\Core\SharedPCH.Core.ShadowErrors.h.json"
 /Zc:inline
 /nologo
 /Oi

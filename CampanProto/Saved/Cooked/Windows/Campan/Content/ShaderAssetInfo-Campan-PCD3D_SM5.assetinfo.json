@@ -59,7 +59,10 @@
 		{
 			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Anais/Material_010",
+				"/Game/Anais/Material_006",
+				"/Game/Sacha/Fbx_Default_Material"
 			]
 		},
 		{
@@ -257,18 +260,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "419EE9E96F6EFD06A21D0F8BA7433C8F5C9FDF70",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
-			]
-		},
-		{
-			"ShaderMapHash": "29C64B2FCF7D80889A787B48F8602C5CDC4F807B",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
-			]
-		},
-		{
 			"ShaderMapHash": "573E40E52BC1CCFD771787D5D6A91532F1B1D221",
 			"Assets": [
 				"/Game/RetroShadersV4/RetroShader/Materials/PostProcess/PPI_RGB+DitherAcBayer"
@@ -287,12 +278,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "82FA1B69661E3A54D3C1A73DB12FD906CAA494AB",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
-			]
-		},
-		{
 			"ShaderMapHash": "C294A59E7213F500A32B1AEE74B047BFE82FA21D",
 			"Assets": [
 				"/Game/RetroShadersV4/RetroShader/Materials/PostProcess/PP_RetroMain"
@@ -302,12 +287,6 @@
 			"ShaderMapHash": "E9E6C9BB8C80820E8A0EDD8DCFEE711FDDF17CF1",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "4BA8896BE742775FC7859DAF5013C6E9845265CF",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_Solid"
 			]
 		},
 		{
@@ -323,15 +302,47 @@
 			]
 		},
 		{
-			"ShaderMapHash": "14454FD8BB2A4B33FF05E398A6E22E6E796EF007",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "2618E300AA8548720554580F88D0E1391D31DA4C",
 			"Assets": [
 				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"Assets": [
+				"/Game/Anais/Material",
+				"/Game/Sacha/Material_fontaine",
+				"/Game/Sacha/Materialsperos/Muret",
+				"/Game/Sacha/Materialsperos/Pavés",
+				"/Game/Anais/Material_004",
+				"/Game/Anais/Material_005",
+				"/Game/Anais/Material_003",
+				"/Game/Sacha/Materialsperos/Eau",
+				"/Game/Sacha/UV_tunnel_texture_Mat",
+				"/Game/Sacha/MaterialTunnel",
+				"/Game/Sacha/Materialsperos/hERBE",
+				"/Game/CollisionEvent/MaterialPanneauTouristes",
+				"/Game/Sacha/Materialéglise",
+				"/Game/Anais/Material_008",
+				"/Game/Sacha/Materialsperos/Atelier",
+				"/Game/Sacha/Materialsperos/Brique",
+				"/Game/Sacha/Materialsperos/Montagne",
+				"/Game/Sacha/Materialsperos/Toiture",
+				"/Game/Anais/Material_007",
+				"/Game/Anais/Material_009",
+				"/Game/Sacha/Materialsperos/Pierre"
+			]
+		},
+		{
+			"ShaderMapHash": "B280F440E532FF91AAD9B969D6D52DE088BEAAD8",
+			"Assets": [
+				"/Game/Assets/Visual/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "1C914D1B92823DC2D0DE46C2FC2F11616AB9A370",
+			"Assets": [
+				"/Game/Assets/Visual/poupée_homme/Material_poupée_1_bis"
 			]
 		}
 	]

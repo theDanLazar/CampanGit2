@@ -1,10 +1,10 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\theda\\documents\\unreal projects\\campangit\\campanproto\\intermediate\\build\\win64\\campan\\development\\core\\sharedpch.core.shadowerrors.cpp",
+        "Source": "c:\\users\\theda\\documents\\unreal projects\\campangit2\\campanproto\\intermediate\\build\\win64\\campan\\development\\core\\sharedpch.core.shadowerrors.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\theda\\documents\\unreal projects\\campangit\\campanproto\\intermediate\\build\\win64\\campan\\development\\core\\sharedpch.core.shadowerrors.h",
+            "c:\\users\\theda\\documents\\unreal projects\\campangit2\\campanproto\\intermediate\\build\\win64\\campan\\development\\core\\sharedpch.core.shadowerrors.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\coresharedpch.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
