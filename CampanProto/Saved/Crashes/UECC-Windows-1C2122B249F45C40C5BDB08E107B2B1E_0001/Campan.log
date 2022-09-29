@@ -1,0 +1,1187 @@
+﻿Log file open, 09/29/22 19:58:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=8944)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Campan
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Campan.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2006] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="4c2d798a4e1349b82761a6b7025a8384"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 2.081485
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1C2122B249F45C40C5BDB08E107B2B1E
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.10 seconds
+LogConfig: Display: Loading Mac ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.10 seconds
+LogConfig: Display: Loading Unix ini files took 0.07 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Spatialization
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2006] (), CPU: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.29-17.58.07:507][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.29-17.58.07:507][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.29-17.58.07:507][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.29-17.58.07:507][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.29-17.58.07:507][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.09.29-17.58.07:507][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.09.29-17.58.07:507][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.29-17.58.07:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.29-17.58.07:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.29-17.58.07:508][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.29-17.58.07:509][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.29-17.58.07:520][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.29-17.58.07:520][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.29-17.58.07:520][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.29-17.58.07:520][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.29-17.58.07:520][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.29-17.58.07:520][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.29-17.58.07:520][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.29-17.58.07:520][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.29-17.58.07:521][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.29-17.58.07:521][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.29-17.58.07:521][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.29-17.58.07:628][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.29-17.58.07:628][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.29-17.58.07:948][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce MX150 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.29-17.58.07:948][  0]LogD3D12RHI: Adapter has 1983MB of dedicated video memory, 0MB of dedicated system memory, and 8044MB of shared system memory, 2 output[s]
+[2022.09.29-17.58.07:988][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 620 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.09.29-17.58.07:988][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8044MB of shared system memory, 0 output[s]
+[2022.09.29-17.58.07:996][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.29-17.58.07:996][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8044MB of shared system memory, 0 output[s]
+[2022.09.29-17.58.07:997][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.29-17.58.07:997][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.29-17.58.07:997][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.29-17.58.07:998][  0]LogHAL: Display: Platform has ~ 16 GB [16871202816 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.29-17.58.07:999][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.29-17.58.07:999][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.29-17.58.07:999][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2022.09.29-17.58.07:999][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2022.09.29-17.58.07:999][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2022.09.29-17.58.07:999][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2022.09.29-17.58.07:999][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2022.09.29-17.58.07:999][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2022.09.29-17.58.07:999][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2022.09.29-17.58.07:999][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2022.09.29-17.58.08:000][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2022.09.29-17.58.08:000][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2022.09.29-17.58.08:000][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.09.29-17.58.08:000][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.29-17.58.08:002][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.29-17.58.08:002][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.29-17.58.08:004][  0]LogInit: Computer: DESKTOP-C4ORKTI
+[2022.09.29-17.58.08:004][  0]LogInit: User: theda
+[2022.09.29-17.58.08:004][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.29-17.58.08:004][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.29-17.58.08:004][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.09.29-17.58.08:004][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.29-17.58.08:004][  0]LogMemory: Process Physical Memory: 268.85 MB used, 276.46 MB peak
+[2022.09.29-17.58.08:004][  0]LogMemory: Process Virtual Memory: 206.26 MB used, 206.26 MB peak
+[2022.09.29-17.58.08:004][  0]LogMemory: Physical Memory: 6404.83 MB used,  9684.80 MB free, 16089.63 MB total
+[2022.09.29-17.58.08:004][  0]LogMemory: Virtual Memory: 8628.77 MB used,  9892.87 MB free, 18521.63 MB total
+[2022.09.29-17.58.08:004][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.29-17.58.08:012][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.29-17.58.08:173][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.29-17.58.08:176][  0]LogInit: Using OS detected language (en-GB).
+[2022.09.29-17.58.08:176][  0]LogInit: Using OS detected locale (en-GB).
+[2022.09.29-17.58.08:205][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2022.09.29-17.58.08:521][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.29-17.58.08:561][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.29-17.58.08:561][  0]LogWindowsTextInputMethodSystem:   - French (France) - (Keyboard).
+[2022.09.29-17.58.08:561][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.09.29-17.58.08:561][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.09.29-17.58.08:561][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2022.09.29-17.58.08:561][  0]LogWindowsTextInputMethodSystem: Activated input method: French (France) - (Keyboard).
+[2022.09.29-17.58.08:670][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.29-17.58.08:670][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.29-17.58.12:108][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.29-17.58.12:113][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.29-17.58.12:113][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.29-17.58.12:212][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.29-17.58.12:287][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.29-17.58.12:294][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.29-17.58.12:305][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.29-17.58.12:324][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.29-17.58.12:324][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.29-17.58.12:453][  0]LogD3D12RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.29-17.58.12:453][  0]LogWindows: Attached monitors:
+[2022.09.29-17.58.12:453][  0]LogWindows:     resolution: 3840x2160, work area: (3840, 14) -> (7680, 2084), device: '\\.\DISPLAY1'
+[2022.09.29-17.58.12:453][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2080), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.09.29-17.58.12:453][  0]LogWindows: Found 2 attached monitors.
+[2022.09.29-17.58.12:453][  0]LogWindows: EnumDisplayDevices:
+[2022.09.29-17.58.12:454][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.09.29-17.58.12:454][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.09.29-17.58.12:454][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.29-17.58.12:455][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.09.29-17.58.12:455][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce MX150
+[2022.09.29-17.58.12:455][  0]LogD3D12RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.09.29-17.58.12:455][  0]LogD3D12RHI:      Driver Date: Unknown
+[2022.09.29-17.58.12:455][  0]LogRHI: Texture pool is 1062 MB (70% of 1517 MB)
+[2022.09.29-17.58.12:455][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.29-17.58.12:455][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.29-17.58.12:497][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.29-17.58.12:558][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Campan.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/TurnkeyReport_0.log" -log="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/TurnkeyLog_0.log" -project="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Campan.uproject"  -platform=all'
+[2022.09.29-17.58.12:559][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Campan.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/TurnkeyReport_0.log" -log="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/TurnkeyLog_0.log" -project="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Campan.uproject"  -platform=all" ]
+[2022.09.29-17.58.12:734][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.29-17.58.12:857][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.29-17.58.12:857][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.29-17.58.12:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.29-17.58.12:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.29-17.58.12:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.29-17.58.12:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.29-17.58.12:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.29-17.58.12:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.29-17.58.12:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.29-17.58.12:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.29-17.58.12:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.29-17.58.12:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.29-17.58.12:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.29-17.58.12:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.29-17.58.13:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.29-17.58.13:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.29-17.58.13:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.29-17.58.13:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.29-17.58.13:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.29-17.58.13:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.29-17.58.13:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.29-17.58.13:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.29-17.58.13:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.29-17.58.13:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.29-17.58.13:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.29-17.58.13:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.29-17.58.13:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.29-17.58.13:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.29-17.58.13:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.29-17.58.13:144][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.29-17.58.13:255][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.29-17.58.13:282][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.29-17.58.13:282][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.29-17.58.13:282][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.29-17.58.13:282][  0]LogTargetPlatformManager:   PCM
+[2022.09.29-17.58.13:308][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.29-17.58.13:308][  0]LogTargetPlatformManager:   BINKA
+[2022.09.29-17.58.13:308][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.29-17.58.13:308][  0]LogTargetPlatformManager:   OGG
+[2022.09.29-17.58.13:308][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.29-17.58.13:308][  0]LogTargetPlatformManager:   OPUS
+[2022.09.29-17.58.13:665][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.29-17.58.13:729][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.29-17.58.13:764][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.29-17.58.13:764][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.29-17.58.13:764][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.29-17.58.13:764][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.29-17.58.13:764][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.29-17.58.13:764][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.29-17.58.13:764][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.29-17.58.13:765][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.29-17.58.13:767][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.29-17.58.13:774][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.29-17.58.13:774][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.29-17.58.13:780][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.29-17.58.13:787][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.29-17.58.13:787][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.29-17.58.13:787][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.29-17.58.13:787][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.29-17.58.13:828][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.29-17.58.13:829][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.29-17.58.13:829][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.29-17.58.13:852][  0]LogDerivedDataCache: Speed tests for C:/Users/theda/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.09.29-17.58.13:852][  0]LogDerivedDataCache: Display: Performance to C:/Users/theda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.30ms. RandomReadSpeed=88.73MBs, RandomWriteSpeed=113.01MBs. Assigned SpeedClass 'Local'
+[2022.09.29-17.58.13:854][  0]LogDerivedDataCache: Using Local data cache path C:/Users/theda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.29-17.58.13:854][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.29-17.58.13:855][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.29-17.58.13:876][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.29-17.58.13:876][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.29-17.58.13:885][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/Shaders/WorkingDirectory/18408/).
+[2022.09.29-17.58.13:885][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/theda/AppData/Local/Temp/UnrealShaderWorkingDir/26DEDB224846E6119BEAE285ED132FF6/'.
+[2022.09.29-17.58.13:886][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.29-17.58.13:886][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.09.29-17.58.20:582][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.29-17.58.20:582][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.29-17.58.20:600][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.29-17.58.20:707][  0]LogAssetRegistry: FAssetRegistry took 0.0288 seconds to start up
+[2022.09.29-17.58.20:714][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.29-17.58.21:037][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.29-17.58.21:044][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.29-17.58.21:627][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.29-17.58.21:627][  0]LogDeviceProfileManager: Active device profile: [00000B812DBD55C0][00000B811FF0A000 50] WindowsEditor
+[2022.09.29-17.58.21:627][  0]LogDeviceProfileManager: Profiles: [00000B812DBD5080][00000B811FFB0000 50] Windows, [00000B812DBD55C0][00000B811FF0A000 50] WindowsEditor, [00000B812DBD3D40][00000B811FF87800 50] WindowsServer, [00000B812DBD1500][00000B810FA7C800 50] WindowsClient, [00000B812DBD1880][00000B812DDC0000 50] IOS, [00000B812DBD4B40][00000B812DDC5000 50] iPadAir2, [00000B812DBD0FC0][00000B812DDCA000 50] IPadPro, [00000B812DBD6040][00000B812DDC7800 50] iPadAir3, [00000B812DBD40C0][00000B812DDCC800 50] iPadAir4, [00000B812DBD6200][00000B811FF82800 50] iPadMini4, [00000B812DBD2680][00000B812DE00000 50] iPadMini5, [00000B812DBD4980][00000B812DE05000 50] iPadMini6, [00000B812DBD8F80][00000B812DE0C800 50] iPhone6S, [00000B812DBD9300][00000B812DE0A000 50] iPhone7, [00000B812DBD9680][00000B812DE07800 50] iPodTouch7, [00000B812DBD4D00][00000B812DDC2800 50] iPhone6SPlus, [00000B812DBD8880][00000B812DE10000 50] iPhone7Plus, [00000B812DBD3F00][00000B812DE15000 50] iPhoneSE, [00000B812DBD3100][00000B812DE17800 50] iPhone8, [00000B812DBD8DC0][00000B812DE1A000 50] iPhone8Plus, [00000B812DBD0700][00000B812DE1C800 50] iPhoneX, [00000B812DBD5400][00000B812DE02800 50] iPhoneXS, [00000B812DBD8180][00000B812DE50000 50] iPhoneXSMax, [00000B812DBD5940][00000B812DE55000 50] iPhoneXR, [00000B812DBD4440][00000B812DE57800 50] iPhone11, [00000B812DBD7000][00000B812DE5A000 50] iPhone11Pro, [00000B812DBD1A40][00000B812DE5C800 50] iPhone11ProMax, [00000B812DBD2140][00000B812DE12800 50] iPhoneSE2, [00000B812DBD4280][00000B812DE60000 50] iPhone12Mini, [00000B812DBD4600][00000B812DE65000 50] iPhone12, [00000B812DBD3640][00000B812DE67800 50] iPhone12Pro, [00000B812DBD2F40][00000B812DE6A000 50] iPhone12ProMax, [00000B812DBD6E40][00000B812DE6C800 50] iPhone13Mini, [00000B812DBD16C0][00000B812DE52800 50] iPhone13, [00000B812DBD78C0][00000B812DE70000 50] iPhone13Pro, [00000B812DBD1340][00000B812DE75000 50] iPhone13ProMax, [00000B812DBD7700][00000B812DE77800 50] iPadPro105, [00000B812DBD63C0][00000B812DE7A000 50] iPadPro129, [00000B812DBD1F80][00000B812DE7C800 50] iPadPro97, [00000B812DBD0540][00000B812DE62800 50] iPadPro2_129, [00000B812DBD2A00][00000B812DE80000 50] iPad5, [00000B812DBD3B80][00000B812DE85000 50] iPad6, [00000B812DBD8C00][00000B812DE87800 50] iPad7, [00000B812DBD7540][00000B812DE8A000 50] iPad8, [00000B812DBD32C0][00000B812DE8C800 50] iPad9, [00000B812DBD7FC0][00000B812DE72800 50] iPadPro11, [00000B812DBD1180][00000B812DE90000 50] iPadPro2_11, [00000B812DBD7E00][00000B812DE95000 50] iPadPro3_11, [00000B812DBD6580][00000B812DE97800 50] iPadPro3_129, [00000B812DBD71C0][00000B812DE9A000 50] iPadPro4_129, [00000B812DBD08C0][00000B812DE9C800 50] iPadPro5_129, [00000B812DBD4EC0][00000B812DE82800 50] AppleTV, [00000B812DBD9140][00000B812DEA0000 50] AppleTV4K, [00000B812DBD47C0][00000B812DEA5000 50] TVOS, [00000B812DBDB440][00000B812DEAA000 50] Mac, [00000B812DBDB7C0][00000B812DEA7800 50] MacEditor, [00000B812DBD2840][00000B812DEAC800 50] MacClient, [00000B812DBD39C0][00000B812DE92800 50] MacServer, [00000B812DBDBB40][00000B812DEC2800 50] Linux, [00000B812DBDBEC0][00000B812DEC0000 50] LinuxEditor, [00000B812DBDB0C0][00000B812DEC7800 50] LinuxArm64Editor, [00000B812DBDB280][00000B812DECA000 50] LinuxArm64, [00000B812DBD3480][00000B812DECC800 50] LinuxClient, [00000B812DBDA2C0][00000B812DEA2800 50] LinuxArm64Client, [00000B812DBD7380][00000B812DE30000 50] LinuxServer, [00000B812DBDA100][00000B812DE35000 50] LinuxArm64Server, [00000B812DBD8A40][00000B812DE37800 50] Android, [00000B812DBD9F40][00000B812DE3A000 50] Android_Preview_OpenGL, [00000B812DBD5B00][00000B812DE3C800 50] Android_Preview_Vulkan, [00000B812DBD0000][00000B812DEC5000 50] Android_Low, [00000B812DBDAF00][00000B812DED0000 50] Android_Mid, [00000B812DBD9BC0][00000B812DED5000 50] Android_High, [00000B812DBDA800][00000B812DED7800 50] Android_Default, [00000B812DBDC780][00000B812DEDA000 50] Android_Adreno4xx, [00000B812DBD86C0][00000B812DEDC800 50] Android_Adreno5xx_Low, [00000B812DBDC240][00000B812DE32800 50] Android_Adreno5xx, [00000B812DBDB600][00000B812DEE0000 50] Android_Adreno6xx, [00000B812DBD94C0][00000B812DEE5000 50] Android_Adreno6xx_Vulkan, [00000B812DBDAB80][00000B812DEE7800 50] Android_Adreno7xx, [00000B812DBD6AC0][00000B812DEEA000 50] Android_Adreno7xx_Vulkan, [00000B812DBD3800][00000B812DEEC800 50] Android_Mali_T6xx, [00000B812DBD2BC0][00000B812DED2800 50] Android_Mali_T7xx, [00000B812DBD8340][00000B812DEF0000 50] Android_Mali_T8xx, [00000B812DBD7A80][00000B812DEF5000 50] Android_Mali_G71, [00000B812DBDAD40][00000B812DEF7800 50] Android_Mali_G72, [00000B812DBD7C40][00000B812DEFA000 50] Android_Mali_G72_Vulkan, [00000B812DBD24C0][00000B812DEFC800 50] Android_Mali_G76, [00000B812DBDC400][00000B812DEE2800 50] Android_Mali_G76_Vulkan, [00000B812DBDB980][00000B812DF00000 50] Android_Mali_G77, [00000B812DBD9A00][00000B812DF05000 50] Android_Mali_G77_Vulkan, [00000B812DBD2300][00000B812DF07800 50] Android_Mali_G78, [00000B812DBDCCC0][00000B812DF0A000 50] Android_Mali_G78_Vulkan, [00000B812DBDCE80][00000B812DF0C800 50] Android_Mali_G710, [00000B812DBD1DC0][00000B812DEF2800 50] Android_Mali_G710_Vulkan, [00000B812DBDD200][00000B812DF10000 50] Android_Xclipse_920, [00000B812DBDC5C0][00000B812DF15000 50] Android_Xclipse_920_Vulkan, [00000B812DBDD580][00000B812DF17800 50] Android_Vulkan_SM5, [00000B812DBDD040][00000B812DF1A000 50] Android_PowerVR_G6xxx, [00000B812DBDDAC0][00000B812DF1C800 50] Android_PowerVR_GT7xxx, [00000B812DBDDC80][00000B812DF02800 50] Android_PowerVR_GE8xxx, [00000B812DBDDE40][00000B812DF20000 50] Android_PowerVR_GM9xxx, [00000B812DBDA9C0][00000B812DF25000 50] Android_PowerVR_GM9xxx_Vulkan, [00000B812DBDE1C0][00000B812DF27800 50] Android_TegraK1, [00000B812DBD9840][00000B812DF2A000 50] Android_Unknown_Vulkan, [00000B812DBDE540][00000B812DF2C800 50] Oculus_Quest, [00000B812DBDE000][00000B812DF12800 50] Oculus_Quest2, [00000B812DBDE8C0][00000B812DF30000 50] HoloLens, 
+[2022.09.29-17.58.21:627][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.29-17.58.21:640][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.09.29-17.58.21:640][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.09.29-17.58.21:640][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.09.29-17.58.21:640][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.29-17.58.21:640][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.29-17.58.21:640][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.09.29-17.58.21:640][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.09.29-17.58.21:822][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.29-17.58.22:393][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.29-17.58.22:393][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.29-17.58.22:393][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.29-17.58.22:393][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.29-17.58.22:393][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.29-17.58.22:500][  0]LogNetVersion: Campan 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1220021887)
+[2022.09.29-17.58.23:153][  0]LogSlate: Border
+[2022.09.29-17.58.23:153][  0]LogSlate: BreadcrumbButton
+[2022.09.29-17.58.23:153][  0]LogSlate: Default
+[2022.09.29-17.58.23:153][  0]LogSlate: Icons.Save
+[2022.09.29-17.58.23:153][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.29-17.58.23:153][  0]LogSlate: ListView
+[2022.09.29-17.58.23:153][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.29-17.58.23:153][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.29-17.58.23:153][  0]LogSlate: TableView.DarkRow
+[2022.09.29-17.58.23:153][  0]LogSlate: TableView.Row
+[2022.09.29-17.58.23:153][  0]LogSlate: TreeView
+[2022.09.29-17.58.23:853][  0]SourceControl: Source control is disabled
+[2022.09.29-17.58.23:963][  0]SourceControl: Source control is disabled
+[2022.09.29-17.58.23:964][  0]SourceControl: Source control is disabled
+[2022.09.29-17.58.24:243][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.29-17.58.24:243][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.09.29-17.58.24:243][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.29-17.58.26:621][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0241FB4441EBCF41FBE62086273C2C6F | Instance: E9061D884505EC850963C69490BA4EDE (DESKTOP-C4ORKTI-18408).
+[2022.09.29-17.58.26:921][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.29-17.58.26:974][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.29-17.58.27:048][  0]LogPython: Using Python 3.9.7
+[2022.09.29-17.58.30:308][  0]SourceControl: Source control is disabled
+[2022.09.29-17.58.30:334][  0]SourceControl: Source control is disabled
+[2022.09.29-17.58.30:389][  0]SourceControl: Source control is disabled
+[2022.09.29-17.58.30:444][  0]LogUProjectInfo: Found projects:
+[2022.09.29-17.58.31:187][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.29-17.58.31:279][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.29-17.58.31:362][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.29-17.58.31:362][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.29-17.58.31:887][  0]LogCollectionManager: Loaded 0 collections in 0.004022 seconds
+[2022.09.29-17.58.32:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/Collections/' took 0.00s
+[2022.09.29-17.58.32:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Developers/theda/Collections/' took 0.00s
+[2022.09.29-17.58.32:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Collections/' took 0.00s
+[2022.09.29-17.58.32:937][  0]LogEngine: Initializing Engine...
+[2022.09.29-17.58.32:965][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.29-17.58.32:986][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.09.29-17.58.33:626][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.29-17.58.33:632][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.29-17.58.33:681][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.29-17.58.33:758][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.29-17.58.33:767][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.29-17.58.33:832][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.29-17.58.33:837][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.29-17.58.33:837][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.29-17.58.33:841][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.29-17.58.33:841][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.29-17.58.33:843][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.29-17.58.33:843][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.29-17.58.33:843][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.29-17.58.33:843][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.29-17.58.33:843][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.29-17.58.33:843][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.29-17.58.33:843][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.29-17.58.33:843][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.29-17.58.33:845][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.29-17.58.33:845][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.29-17.58.33:845][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.29-17.58.33:895][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.29-17.58.33:957][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM4 Stereo)
+[2022.09.29-17.58.33:960][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.29-17.58.33:984][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.29-17.58.33:984][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.29-17.58.33:987][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.29-17.58.33:987][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.29-17.58.33:988][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.29-17.58.33:988][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.29-17.58.33:988][  0]LogInit: FAudioDevice initialized.
+[2022.09.29-17.58.33:988][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.29-17.58.33:989][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.29-17.58.33:989][  0]LogInit: Texture streaming: Enabled
+[2022.09.29-17.58.34:086][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.29-17.58.34:113][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.29-17.58.34:170][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.29-17.58.34:207][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.29-17.58.34:207][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.29-17.58.39:273][  0]LogLiveCoding: Display: First instance in process group "UE_Campan_0x5dc85361", spawning console
+[2022.09.29-17.58.39:273][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.29-17.58.39:273][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.29-17.58.39:312][  0]LogInit: Transaction tracking system initialized
+[2022.09.29-17.58.39:501][  0]BlueprintLog: New page: Editor Load
+[2022.09.29-17.58.40:125][  0]LocalizationService: Localization service is disabled
+[2022.09.29-17.58.40:251][  0]TimingProfiler: Initialize
+[2022.09.29-17.58.40:252][  0]TimingProfiler: OnSessionChanged
+[2022.09.29-17.58.40:252][  0]LoadingProfiler: Initialize
+[2022.09.29-17.58.40:253][  0]LoadingProfiler: OnSessionChanged
+[2022.09.29-17.58.40:254][  0]NetworkingProfiler: Initialize
+[2022.09.29-17.58.40:256][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.29-17.58.40:256][  0]MemoryProfiler: Initialize
+[2022.09.29-17.58.40:256][  0]MemoryProfiler: OnSessionChanged
+[2022.09.29-17.58.42:414][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/' took 0.13s
+[2022.09.29-17.58.42:414][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.29-17.58.42:687][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.29-17.58.42:695][  0]SourceControl: Source control is disabled
+[2022.09.29-17.58.42:696][  0]LogUnrealEdMisc: Loading editor; pre map load, took 44.779
+[2022.09.29-17.58.42:698][  0]Cmd: MAP LOAD FILE="../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.29-17.58.42:705][  0]LightingResults: New page: Lighting Build
+[2022.09.29-17.58.42:720][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.29-17.58.42:723][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-17.58.42:724][  0]MapCheck: New page: Map Check
+[2022.09.29-17.58.42:724][  0]LightingResults: New page: Lighting Build
+[2022.09.29-17.58.42:742][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.29-17.58.42:754][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.09.29-17.58.43:741][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.09.29-17.58.43:754][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.29-17.58.43:755][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.09.29-17.58.43:765][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.29-17.58.43:765][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.29-17.58.45:981][  0]LogLinker: Warning: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\3\NZ\987OQ7VOCDS2QCZ21NM2RH.uasset: Failed to load '/Game/Assets/Visuels/fontaine': Can't find file.
+[2022.09.29-17.58.45:982][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/Visuels/fontaine'
+[2022.09.29-17.58.51:586][  0]LogWorldPartition: Display: WorldPartition initialize took 7.82 sec
+[2022.09.29-17.58.51:629][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.29-17.58.51:644][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.09.29-17.58.51:647][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.29-17.58.51:649][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.28ms to complete.
+[2022.09.29-17.58.51:649][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 8.952
+[2022.09.29-17.58.51:692][  0]LogUnrealEdMisc: Total Editor Startup Time, took 53.776
+[2022.09.29-17.58.51:692][  0]LogShaderCompilers: Display: ================================================
+[2022.09.29-17.58.51:692][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.29-17.58.51:692][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.29-17.58.51:692][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.29-17.58.51:692][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.29-17.58.51:692][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.29-17.58.51:692][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.29-17.58.51:693][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.29-17.58.51:693][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.29-17.58.51:693][  0]LogShaderCompilers: Display: ================================================
+[2022.09.29-17.58.51:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-17.58.51:908][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-17.58.51:917][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-17.58.51:926][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-17.58.52:082][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.29-17.58.52:083][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.29-17.58.52:093][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.29-17.58.52:093][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.29-17.58.52:100][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.29-17.58.52:100][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.29-17.58.52:108][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.29-17.58.52:108][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.29-17.58.52:124][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.29-17.58.52:124][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.29-17.58.52:135][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.29-17.58.52:135][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.29-17.58.52:142][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.29-17.58.52:142][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.29-17.58.52:149][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.29-17.58.52:149][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.29-17.58.52:156][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.29-17.58.52:156][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.29-17.58.52:164][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.29-17.58.52:164][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.29-17.58.52:165][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.29-17.58.52:719][  0]LogSlate: Took 0.007775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.29-17.58.52:734][  0]LogSlate: Took 0.006065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.29-17.58.52:743][  0]LogSlate: Took 0.006948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.29-17.58.52:751][  0]LogSlate: Took 0.006600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.29-17.58.52:783][  0]LogViewport: Scene viewport resized to 2681x1152, mode Windowed.
+[2022.09.29-17.58.52:943][  0]LogSlate: Took 0.006998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.29-17.58.53:556][  0]LogStall: Startup...
+[2022.09.29-17.58.53:559][  0]LogStall: Startup complete.
+[2022.09.29-17.58.53:597][  0]LogLoad: (Engine Initialization) Total time: 55.68 seconds
+[2022.09.29-17.58.53:597][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.29-17.58.53:636][  0]LogAssetRegistry: Asset discovery search completed in 32.9326 seconds
+[2022.09.29-17.58.53:673][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.09.29-17.58.53:681][  0]LogContentStreaming: Texture pool size now 600 MB
+[2022.09.29-17.58.53:948][  1]Cmd: r.ScreenPercentage 100.0
+[2022.09.29-17.58.53:949][  1]r.ScreenPercentage = "100"
+[2022.09.29-17.58.53:949][  1]Cmd: r.upscale.quality 0
+[2022.09.29-17.58.53:949][  1]r.Upscale.Quality = "0"
+[2022.09.29-17.58.53:950][  1]Cmd: r.PostProcessAAQuality 0
+[2022.09.29-17.58.53:950][  1]Cmd: r.ShadowQuality 1
+[2022.09.29-17.58.53:950][  1]r.ShadowQuality = "1"
+[2022.09.29-17.58.53:950][  1]Cmd: r.AmbientOcclusion.Compute.Smooth 0
+[2022.09.29-17.58.53:950][  1]r.AmbientOcclusion.Compute.Smooth = "0"
+[2022.09.29-17.58.54:251][  3]LogSlate: Took 0.000402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.29-17.58.55:588][  6]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957438403
+[2022.09.29-17.58.55:588][  6]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.09.29-17.59.23:347][599]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-C4ORKTI
+[2022.09.29-17.59.23:347][599]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Campan.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/TurnkeyReport_1.log" -log="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/TurnkeyLog_1.log" -project="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Campan.uproject"  -Device=Win64@DESKTOP-C4ORKTI'
+[2022.09.29-17.59.23:348][599]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Campan.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/TurnkeyReport_1.log" -log="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Intermediate/TurnkeyLog_1.log" -project="C:/Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Campan.uproject"  -Device=Win64@DESKTOP-C4ORKTI" -nocompile ]
+[2022.09.29-17.59.25:345][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.09.29-17.59.26:558][689]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.09.29-17.59.26:558][689]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-C4ORKTI: (Name=DESKTOP-C4ORKTI, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.09.29-18.00.15:347][236]LogDerivedDataCache: C:/Users/theda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.219 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.29-18.00.48:591][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.00.48:593][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.29-18.00.54:856][597]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.09.29-18.00.54:856][597]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049399s
+[2022.09.29-18.00.55:144][597]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000307s (0.708300s overbudget)
+[2022.09.29-18.00.55:181][597]LogSlate: Took 0.006469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.29-18.00.55:419][598]LogSlate: Took 0.006600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.29-18.01.39:013][953]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/UI/UI.UI
+[2022.09.29-18.01.39:014][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.29-18.01.39:093][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.29-18.01.39:111][953]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.09.29-18.01.39:650][953]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.29-18.01.39:651][953]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.29-18.01.39:871][953]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.09.29-18.02.18:872][253]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/UI/PaneauUI.PaneauUI
+[2022.09.29-18.02.18:883][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.29-18.02.18:915][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.29-18.02.20:125][253]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.29-18.02.20:125][253]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.29-18.02.24:114][345]LogSlate: Window 'PaneauUI' being destroyed
+[2022.09.29-18.04.26:627][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.09.29-18.04.26:630][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.29-18.08.57:069][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.09.29-18.08.57:071][817]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.158
+[2022.09.29-18.08.57:074][817]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CollisionEvent/PanneauFontaine] ([2] browsable assets)...
+[2022.09.29-18.08.57:241][817]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine]
+[2022.09.29-18.08.57:243][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/CollisionEvent/PanneauFontaine]
+[2022.09.29-18.08.57:264][817]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.018197 seconds
+[2022.09.29-18.08.57:300][817]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CollisionEvent/PanneauFontaine_Auto1
+[2022.09.29-18.08.57:301][817]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaine_Auto13909EDF74DE9636D33B9D7BEA8B1C581.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/Autosaves/Game/CollisionEvent/PanneauFontaine_Auto1.uasset'
+[2022.09.29-18.08.57:304][817]LogFileHelpers: Auto-saving content packages took 0.232
+[2022.09.29-18.10.18:357][666]LogEditorTransaction: Undo Paste clipboard contents
+[2022.09.29-18.10.42:737][426]LogEditorTransaction: Undo Create Pin Link
+[2022.09.29-18.10.44:160][442]LogEditorTransaction: Undo Create Pin Link
+[2022.09.29-18.11.17:372][311]LogEditorTransaction: Undo Move Node
+[2022.09.29-18.11.19:718][356]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.11.19:720][356]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaineF286D6344F28A2C879B125A6BF2C1BEB.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.11.19:758][356]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.11.19:759][356]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.11.23:970][471]LogEditorTransaction: Undo Paste clipboard contents
+[2022.09.29-18.11.25:149][484]LogEditorTransaction: Undo Create Pin Link
+[2022.09.29-18.11.42:956][985]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.11.42:958][985]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaine068BC2A640F26F906B86CCBB8E7D7D27.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.11.43:000][985]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.11.43:000][985]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.11.44:601][ 42]BlueprintLog: New page: Compile PanneauFontaine
+[2022.09.29-18.11.44:849][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.09.29-18.12.11:851][982]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.09.29-18.12.11:852][982]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/BP_FirstPersonCharacter7EC57A3849FBE7417660C18AA4E4B37A.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.09.29-18.12.11:887][982]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.09.29-18.12.11:887][982]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.09.29-18.13.46:482][876]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.13.46:483][876]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaine39CE4FF44D881B247611D984F5D35376.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.13.46:510][876]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.13.46:510][876]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.14.37:290][405]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.09.29-18.14.37:292][405]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/BP_FirstPersonCharacter5288A2824931FFEA6C336582F4F7FD14.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.09.29-18.14.37:319][405]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.09.29-18.14.37:319][405]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.09.29-18.14.37:609][415]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.09.29-18.14.37:852][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.09.29-18.15.41:613][389]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.09.29-18.15.41:614][389]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/BP_FirstPersonCharacterEE56347C476EEEB34AC5CEB38D0B1A29.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.09.29-18.15.41:637][389]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.09.29-18.15.41:637][389]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.09.29-18.15.41:836][396]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.09.29-18.15.42:069][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.09.29-18.15.45:996][502]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.15.45:997][502]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaine1D3EB38E4BA014432B0C22B3D4861AA3.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.15.46:026][502]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.15.46:026][502]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.15.46:389][515]BlueprintLog: New page: Compile PanneauFontaine
+[2022.09.29-18.15.46:416][515]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2022.09.29-18.15.46:416][515]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.09.29-18.15.46:417][515]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2022.09.29-18.15.46:417][515]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.09.29-18.15.46:613][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.09.29-18.16.58:121][714]LogEditorTransaction: Undo Create Pin Link
+[2022.09.29-18.17.01:115][768]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.17.01:116][768]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaine3B19CED44BDCD398F210CBAE8F64DA14.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.17.01:146][768]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.17.01:146][768]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.18.10:316][125]BlueprintLog: New page: Compile PanneauFontaine
+[2022.09.29-18.18.10:336][125]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2022.09.29-18.18.10:338][125]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.09.29-18.18.10:339][125]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2022.09.29-18.18.10:339][125]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.09.29-18.18.10:512][125]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.09.29-18.18.30:914][748]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.18.30:915][748]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaineF73496814E0803581EE3A789F60F22EE.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.18.30:939][748]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.18.30:939][748]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.18.31:215][758]BlueprintLog: New page: Compile PanneauFontaine
+[2022.09.29-18.18.31:242][758]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2022.09.29-18.18.31:243][758]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.09.29-18.18.31:244][758]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2022.09.29-18.18.31:245][758]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.09.29-18.18.31:401][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.09.29-18.18.44:202][ 71]LogContentBrowser: Deferred new asset file creation: PaneauUI1
+[2022.09.29-18.18.44:276][ 71]LogContentBrowser: Creating deferred item: PaneauUI1
+[2022.09.29-18.18.44:320][ 72]LogContentBrowser: Renaming the item being created (Deferred Item: PaneauUI1).
+[2022.09.29-18.18.44:900][ 87]LogContentBrowser: Attempting asset rename: PaneauUI1 -> PaneauUI1
+[2022.09.29-18.18.45:116][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.09.29-18.18.45:126][ 87]LogContentBrowser: End creating deferred item PaneauUI1
+[2022.09.29-18.18.46:875][116]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.29-18.18.46:875][116]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.29-18.18.47:468][132]LogContentBrowser: Deferred new asset file creation: PaneauUI2
+[2022.09.29-18.18.47:705][132]LogContentBrowser: Creating deferred item: PaneauUI2
+[2022.09.29-18.18.47:722][133]LogContentBrowser: Renaming the item being created (Deferred Item: PaneauUI2).
+[2022.09.29-18.18.48:284][149]LogContentBrowser: Attempting asset rename: PaneauUI2 -> PaneauUI2
+[2022.09.29-18.18.48:457][149]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2022.09.29-18.18.48:468][149]LogContentBrowser: End creating deferred item PaneauUI2
+[2022.09.29-18.18.51:219][209]LogContentBrowser: Deferred new asset file creation: PaneauUI3
+[2022.09.29-18.18.51:283][209]LogContentBrowser: Creating deferred item: PaneauUI3
+[2022.09.29-18.18.51:336][210]LogContentBrowser: Renaming the item being created (Deferred Item: PaneauUI3).
+[2022.09.29-18.18.52:017][227]LogContentBrowser: Attempting asset rename: PaneauUI3 -> PaneauUI3
+[2022.09.29-18.18.52:218][227]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.09.29-18.18.52:227][227]LogContentBrowser: End creating deferred item PaneauUI3
+[2022.09.29-18.19.00:061][421]LogContentBrowser: Attempting asset rename: PaneauUI -> UIFontaine
+[2022.09.29-18.19.00:254][421]LogMetaData: Removing '/Game/Assets/UI/UIFontaine.UIFontaine_C' ref from Metadata '/Game/Assets/UI/PaneauUI.PackageMetaData'
+[2022.09.29-18.19.00:254][421]LogMetaData: Removing '/Game/Assets/UI/UIFontaine.SKEL_UIFontaine_C:PreConstruct' ref from Metadata '/Game/Assets/UI/PaneauUI.PackageMetaData'
+[2022.09.29-18.19.00:254][421]LogMetaData: Removing '/Game/Assets/UI/UIFontaine.SKEL_UIFontaine_C:Construct' ref from Metadata '/Game/Assets/UI/PaneauUI.PackageMetaData'
+[2022.09.29-18.19.00:254][421]LogMetaData: Removing '/Game/Assets/UI/UIFontaine.SKEL_UIFontaine_C:Tick' ref from Metadata '/Game/Assets/UI/PaneauUI.PackageMetaData'
+[2022.09.29-18.19.00:254][421]LogMetaData: Removing '/Game/Assets/UI/UIFontaine.SKEL_UIFontaine_C' ref from Metadata '/Game/Assets/UI/PaneauUI.PackageMetaData'
+[2022.09.29-18.19.00:514][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CollisionEvent/PanneauPont" FILE="../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauPont.uasset" SILENT=true
+[2022.09.29-18.19.00:533][421]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauPont
+[2022.09.29-18.19.00:535][421]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauPontDE3BB2874AA9174E27A83BA4806BC48B.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauPont.uasset'
+[2022.09.29-18.19.00:572][421]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.19.00:573][421]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaineF71313E642AED6C54E15E9A6CD7B73F8.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.19.00:609][421]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauEglise
+[2022.09.29-18.19.00:610][421]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauEgliseB3F67E2C41AACD1030A076A0E2D4EC8F.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauEglise.uasset'
+[2022.09.29-18.19.00:648][421]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauAtelier
+[2022.09.29-18.19.00:649][421]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauAtelier3B0A2C5C438DC85E04C7DAB361863127.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauAtelier.uasset'
+[2022.09.29-18.19.00:701][421]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.09.29-18.19.00:703][421]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/BP_FirstPersonCharacterEBDCB2A54AEA4B07815EDF8F7B95446B.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.09.29-18.19.00:706][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/UIFontaine" FILE="../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Assets/UI/UIFontaine.uasset" SILENT=true
+[2022.09.29-18.19.00:712][421]LogSavePackage: Moving output files for package: /Game/Assets/UI/UIFontaine
+[2022.09.29-18.19.00:713][421]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/UIFontaine02B684D94F11D97A9A2FA2B8038579BE.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Assets/UI/UIFontaine.uasset'
+[2022.09.29-18.19.00:848][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.09.29-18.19.00:930][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.09.29-18.19.01:008][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.09.29-18.19.01:021][421]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.29-18.19.01:021][421]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.09.29-18.19.01:021][421]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UI/UIFontaine.UIFontaine
+[2022.09.29-18.19.01:021][421]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauPont.PanneauPont
+[2022.09.29-18.19.01:021][421]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauAtelier.PanneauAtelier
+[2022.09.29-18.19.01:021][421]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.19.01:021][421]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauEglise.PanneauEglise
+[2022.09.29-18.19.07:641][576]LogContentBrowser: Attempting asset rename: PaneauUI1 -> UIRiver
+[2022.09.29-18.19.07:692][576]LogMetaData: Removing '/Game/Assets/UI/UIRiver.SKEL_UIRiver_C' ref from Metadata '/Game/Assets/UI/PaneauUI1.PackageMetaData'
+[2022.09.29-18.19.07:693][576]LogMetaData: Removing '/Game/Assets/UI/UIRiver.UIRiver_C' ref from Metadata '/Game/Assets/UI/PaneauUI1.PackageMetaData'
+[2022.09.29-18.19.07:693][576]LogMetaData: Removing '/Game/Assets/UI/UIRiver.SKEL_UIRiver_C:PreConstruct' ref from Metadata '/Game/Assets/UI/PaneauUI1.PackageMetaData'
+[2022.09.29-18.19.07:693][576]LogMetaData: Removing '/Game/Assets/UI/UIRiver.SKEL_UIRiver_C:Construct' ref from Metadata '/Game/Assets/UI/PaneauUI1.PackageMetaData'
+[2022.09.29-18.19.07:693][576]LogMetaData: Removing '/Game/Assets/UI/UIRiver.SKEL_UIRiver_C:Tick' ref from Metadata '/Game/Assets/UI/PaneauUI1.PackageMetaData'
+[2022.09.29-18.19.07:996][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/UIRiver" FILE="../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Assets/UI/UIRiver.uasset" SILENT=true
+[2022.09.29-18.19.08:004][576]LogSavePackage: Moving output files for package: /Game/Assets/UI/UIRiver
+[2022.09.29-18.19.08:004][576]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/UIRiverBA958F254EE32126B248388573CC30C4.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Assets/UI/UIRiver.uasset'
+[2022.09.29-18.19.08:154][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.09.29-18.19.08:239][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.09.29-18.19.08:326][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.09.29-18.19.08:336][576]AssetCheck: New page: Asset Save: UIRiver
+[2022.09.29-18.19.08:336][576]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UI/UIRiver.UIRiver
+[2022.09.29-18.19.15:254][755]LogContentBrowser: Attempting asset rename: PaneauUI2 -> UIChurch
+[2022.09.29-18.19.15:327][755]LogMetaData: Removing '/Game/Assets/UI/UIChurch.SKEL_UIChurch_C' ref from Metadata '/Game/Assets/UI/PaneauUI2.PackageMetaData'
+[2022.09.29-18.19.15:327][755]LogMetaData: Removing '/Game/Assets/UI/UIChurch.UIChurch_C' ref from Metadata '/Game/Assets/UI/PaneauUI2.PackageMetaData'
+[2022.09.29-18.19.15:327][755]LogMetaData: Removing '/Game/Assets/UI/UIChurch.SKEL_UIChurch_C:PreConstruct' ref from Metadata '/Game/Assets/UI/PaneauUI2.PackageMetaData'
+[2022.09.29-18.19.15:327][755]LogMetaData: Removing '/Game/Assets/UI/UIChurch.SKEL_UIChurch_C:Construct' ref from Metadata '/Game/Assets/UI/PaneauUI2.PackageMetaData'
+[2022.09.29-18.19.15:327][755]LogMetaData: Removing '/Game/Assets/UI/UIChurch.SKEL_UIChurch_C:Tick' ref from Metadata '/Game/Assets/UI/PaneauUI2.PackageMetaData'
+[2022.09.29-18.19.15:560][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/UIChurch" FILE="../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Assets/UI/UIChurch.uasset" SILENT=true
+[2022.09.29-18.19.15:566][755]LogSavePackage: Moving output files for package: /Game/Assets/UI/UIChurch
+[2022.09.29-18.19.15:566][755]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/UIChurch3DB7665941DCE35CE71D7C874CEDC814.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Assets/UI/UIChurch.uasset'
+[2022.09.29-18.19.15:709][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.09.29-18.19.15:789][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.09.29-18.19.15:866][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.09.29-18.19.15:876][755]AssetCheck: New page: Asset Save: UIChurch
+[2022.09.29-18.19.15:876][755]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UI/UIChurch.UIChurch
+[2022.09.29-18.19.21:448][889]LogContentBrowser: Attempting asset rename: PaneauUI3 -> UIEnfer
+[2022.09.29-18.19.21:533][889]LogMetaData: Removing '/Game/Assets/UI/UIEnfer.SKEL_UIEnfer_C' ref from Metadata '/Game/Assets/UI/PaneauUI3.PackageMetaData'
+[2022.09.29-18.19.21:533][889]LogMetaData: Removing '/Game/Assets/UI/UIEnfer.UIEnfer_C' ref from Metadata '/Game/Assets/UI/PaneauUI3.PackageMetaData'
+[2022.09.29-18.19.21:533][889]LogMetaData: Removing '/Game/Assets/UI/UIEnfer.SKEL_UIEnfer_C:PreConstruct' ref from Metadata '/Game/Assets/UI/PaneauUI3.PackageMetaData'
+[2022.09.29-18.19.21:533][889]LogMetaData: Removing '/Game/Assets/UI/UIEnfer.SKEL_UIEnfer_C:Construct' ref from Metadata '/Game/Assets/UI/PaneauUI3.PackageMetaData'
+[2022.09.29-18.19.21:533][889]LogMetaData: Removing '/Game/Assets/UI/UIEnfer.SKEL_UIEnfer_C:Tick' ref from Metadata '/Game/Assets/UI/PaneauUI3.PackageMetaData'
+[2022.09.29-18.19.21:745][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/UIEnfer" FILE="../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Assets/UI/UIEnfer.uasset" SILENT=true
+[2022.09.29-18.19.21:752][889]LogSavePackage: Moving output files for package: /Game/Assets/UI/UIEnfer
+[2022.09.29-18.19.21:752][889]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/UIEnfer7A02375B4324382C44F0049A276F7083.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Assets/UI/UIEnfer.uasset'
+[2022.09.29-18.19.21:891][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.09.29-18.19.21:975][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.09.29-18.19.22:054][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.09.29-18.19.22:065][889]AssetCheck: New page: Asset Save: UIEnfer
+[2022.09.29-18.19.22:065][889]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UI/UIEnfer.UIEnfer
+[2022.09.29-18.19.22:920][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/UIEnfer" FILE="../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Assets/UI/UIEnfer.uasset" SILENT=true
+[2022.09.29-18.19.22:926][912]LogSavePackage: Moving output files for package: /Game/Assets/UI/UIEnfer
+[2022.09.29-18.19.22:928][912]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/UIEnfer0EA7B6BD492297834DA4B7B5B66DC2FA.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/Assets/UI/UIEnfer.uasset'
+[2022.09.29-18.19.22:965][912]AssetCheck: New page: Asset Save: UIEnfer
+[2022.09.29-18.19.22:965][912]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UI/UIEnfer.UIEnfer
+[2022.09.29-18.20.10:585][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.09.29-18.20.10:591][ 74]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CN/RG0OJ0Z9IQL0PJRRJ6X3C3_Auto2
+[2022.09.29-18.20.10:591][ 74]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/RG0OJ0Z9IQL0PJRRJ6X3C3_Auto2A720063947C316DA51CA53A7B37C4191.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CN/RG0OJ0Z9IQL0PJRRJ6X3C3_Auto2.uasset'
+[2022.09.29-18.20.10:594][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.121
+[2022.09.29-18.20.10:594][ 74]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.121
+[2022.09.29-18.22.11:875][399]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CN/RG0OJ0Z9IQL0PJRRJ6X3C3
+[2022.09.29-18.22.11:877][399]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/RG0OJ0Z9IQL0PJRRJ6X3C30D9DE0514FB167FDB97106A8F7452FEA.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CN/RG0OJ0Z9IQL0PJRRJ6X3C3.uasset'
+[2022.09.29-18.22.11:931][399]AssetCheck: New page: Asset Save: PanneauFontaine_C_UAID_04D3B0B5265F043701_1620926944
+[2022.09.29-18.22.11:931][399]LogContentValidation: Display: Validating PanneauFontaine_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauFontaine_C_UAID_04D3B0B5265F043701_1620926944
+[2022.09.29-18.22.18:811][563]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.29-18.22.40:559][183]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.22.40:561][183]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaine7A68FC2949476C6316D428B5FAC321AB.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.22.40:593][183]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.22.40:593][183]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.22.40:804][190]BlueprintLog: New page: Compile PanneauFontaine
+[2022.09.29-18.22.40:831][190]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2022.09.29-18.22.40:832][190]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.09.29-18.22.40:832][190]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2022.09.29-18.22.40:834][190]LogBlueprint: Error: [AssetLog] C:\Users\theda\Documents\Unreal Projects\CampanGit2\CampanProto\Content\CollisionEvent\PanneauFontaine.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.09.29-18.22.41:076][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.09.29-18.23.02:401][832]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.23.02:402][832]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaineDE0965274707781C8A124D8EC2A5B8AB.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.23.02:426][832]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.23.02:426][832]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.23.09:818][ 49]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.29-18.23.10:089][ 49]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.29-18.23.58:300][168]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.29-18.23.58:333][168]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.29-18.24.00:494][229]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.24.00:496][229]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaine146B946C41E5064532E51C92F4BABC70.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.24.00:538][229]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.24.00:538][229]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.25.32:963][892]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.25.32:964][892]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaineEB92A9474C13F40609A1318F05B89F8C.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.25.33:004][892]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.25.33:004][892]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.25.35:264][957]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.25.35:266][957]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaineC54E72FD4FBB8B2C9D9C799E6C2D8AA9.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.25.35:301][957]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.25.35:301][957]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.25.35:507][964]BlueprintLog: New page: Compile PanneauFontaine
+[2022.09.29-18.25.35:741][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.09.29-18.26.57:818][166]LogSlate: Took 0.000682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.29-18.35.38:973][370]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.35.38:975][370]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaine137FB68F40294A1765B5AAA13DB8B45A.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.35.39:015][370]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.35.39:015][370]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.35.39:596][385]BlueprintLog: New page: Compile PanneauFontaine
+[2022.09.29-18.35.39:839][385]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.09.29-18.36.03:728][ 69]LogSavePackage: Moving output files for package: /Game/CollisionEvent/PanneauFontaine
+[2022.09.29-18.36.03:729][ 69]LogSavePackage: Moving '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Saved/PanneauFontaine827FCE99410EE408A57477A265142DDA.tmp' to '../../../../../../Users/theda/Documents/Unreal Projects/CampanGit2/CampanProto/Content/CollisionEvent/PanneauFontaine.uasset'
+[2022.09.29-18.36.03:757][ 69]AssetCheck: New page: Asset Save: PanneauFontaine
+[2022.09.29-18.36.03:758][ 69]LogContentValidation: Display: Validating Blueprint /Game/CollisionEvent/PanneauFontaine.PanneauFontaine
+[2022.09.29-18.36.04:202][ 81]BlueprintLog: New page: Compile PanneauFontaine
+[2022.09.29-18.36.04:424][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.09.29-18.36.07:187][137]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-C4ORKTI
+[2022.09.29-18.36.08:288][165]LogWorldPartition: Display: GenerateStreaming started...
+[2022.09.29-18.36.08:288][165]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.09.29-18.36.08:288][165]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.09.29-18.36.08:289][165]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.09.29-18.36.08:289][165]LogWorldPartition: Display: ValidateSingleActorReferer took 1 us
+[2022.09.29-18.36.08:289][165]LogWorldPartition: Display: GetPartitionedActors took 406 us
+[2022.09.29-18.36.08:294][165]LogWorldPartition: Display: GenerateStreaming took 6 ms
+[2022.09.29-18.36.08:298][165]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.09.29-18.36.08:329][165]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2022.09.29-18.36.08:536][165]LogPlayLevel: [PlayLevel] Compiling PanneauPont before play...
+[2022.09.29-18.36.08:587][165]LogPlayLevel: [PlayLevel] Compiling PanneauAtelier before play...
+[2022.09.29-18.36.08:637][165]LogPlayLevel: [PlayLevel] Compiling PanneauEglise before play...
+[2022.09.29-18.36.08:684][165]LogPlayLevel: [PlayLevel] Compiling UIRiver before play...
+[2022.09.29-18.36.08:688][165]LogPlayLevel: [PlayLevel] Compiling UIChurch before play...
+[2022.09.29-18.36.08:692][165]LogPlayLevel: [PlayLevel] Compiling UIEnfer before play...
+[2022.09.29-18.36.08:787][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.09.29-18.36.08:791][165]LogPlayLevel: PlayLevel: Blueprint regeneration took 491 ms (7 blueprints)
+[2022.09.29-18.36.08:798][165]PIE: New page: PIE session: FirstPersonMap (29 Sep 2022, 22:36:08)
+[2022.09.29-18.36.08:810][165]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.09.29-18.36.08:811][165]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.29-18.36.08:811][165]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.09.29-18.36.08:872][165]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.09.29-18.36.08:873][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061535s)
+[2022.09.29-18.36.08:873][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.061651s)
+[2022.09.29-18.36.08:874][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.29-18.36.08:875][165]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.09.29-18.36.08:876][165]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.29-18.36.08:876][165]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.09.29-18.36.08:892][165]LogWorldPartition: Display: WorldPartition initialize took 15 ms
+[2022.09.29-18.36.08:892][165]LogPlayLevel: PIE: World Init took: (0.019143s)
+[2022.09.29-18.36.08:976][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.09.29-18.36.08:980][165]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.29-18.36.08:980][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.29-18.36.08:980][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.29-18.36.08:980][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.29-18.36.08:980][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.29-18.36.08:980][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.29-18.36.08:980][165]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.29-18.36.08:980][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.29-18.36.08:980][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.29-18.36.08:981][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.29-18.36.08:981][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.29-18.36.08:981][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.29-18.36.08:984][165]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.29-18.36.09:018][165]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM4 Stereo)
+[2022.09.29-18.36.09:018][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.29-18.36.09:018][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.29-18.36.09:018][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.29-18.36.09:019][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.09.29-18.36.09:019][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.09.29-18.36.09:021][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.09.29-18.36.09:021][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.09.29-18.36.09:021][165]LogInit: FAudioDevice initialized.
+[2022.09.29-18.36.09:021][165]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2022.09.29-18.36.09:245][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-18.36.09:247][165]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.09.29-18.36.09:289][165]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.09.29-20.36.09
+[2022.09.29-18.36.09:295][165]LogWorld: Bringing up level for play took: 0.048112
+[2022.09.29-18.36.09:299][165]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.09.29-18.36.09:370][165]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1090.000 Y=-2750.000 Z=97.650
+[2022.09.29-18.36.09:370][165]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.09.29-18.36.09:376][165]Cmd: DisableAllScreenMessages
+[2022.09.29-18.36.09:378][165]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.09.29-18.36.09:382][165]PIE: Server logged in
+[2022.09.29-18.36.09:383][165]PIE: Play in editor total start time 1.127 seconds.
+[2022.09.29-18.36.09:533][165]LogViewport: Scene viewport resized to 3834x2014, mode Windowed.
+[2022.09.29-18.36.10:374][166]Cmd: r.ScreenPercentage 17.874876
+[2022.09.29-18.36.10:375][166]LogEngine: Display: r.ScreenPercentage=17.874876 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2022.09.29-18.36.10:375][166]r.ScreenPercentage = "17.8749"
+[2022.09.29-18.36.10:376][166]Cmd: r.upscale.quality 0
+[2022.09.29-18.36.10:376][166]r.Upscale.Quality = "0"
+[2022.09.29-18.36.10:428][168]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.10:428][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.36:184][568]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.36:185][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.37:817][592]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.37:818][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.38:302][600]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.38:302][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.38:500][603]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.38:500][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.38:661][605]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.38:661][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.38:839][608]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.38:839][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.39:035][611]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.39:035][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.39:237][614]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.39:238][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.39:402][616]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.39:402][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.39:663][620]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.39:664][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.39:770][622]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.39:770][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.39:871][623]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.39:872][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.39:971][625]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.39:971][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.40:117][627]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.40:117][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.40:169][628]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue
+	PanneauEglise_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.PanneauEglise_C_UAID_04D3B0B5265F053701_1253459122
+	Function /Game/CollisionEvent/PanneauEglise.PanneauEglise_C:ExecuteUbergraph_PanneauEglise:0298
+[2022.09.29-18.36.40:170][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.40:325][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.40:326][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.40:518][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.40:518][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.40:715][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.40:763][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.42:228][659]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.42:556][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.42:841][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.43:097][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.43:285][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.43:538][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.43:696][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.43:847][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.44:009][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.44:222][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnSound2D_ReturnValue". Node:  Set IsSoundPlaying? Graph:  EventGraph Function:  Execute Ubergraph Panneau Eglise Blueprint:  PanneauEglise
+[2022.09.29-18.36.46:852][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.29-18.36.46:852][728]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.09.29-18.36.46:855][728]LogSlate: Window 'Campan Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.09.29-18.36.46:928][728]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.29-18.36.46:957][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.29-18.36.46:990][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.29-18.36.46:994][728]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.29-18.36.48:782][728]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.788 s
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: === Handled ensure: ===
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: 
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: 
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: Stack: 
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ffe62255fa6 UnrealEditor-Engine.dll!UWorldPartitionRuntimeHash::ForceExternalActorLevelReference() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\WorldPartition\WorldPartitionRuntimeHash.cpp:49]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ffe6226f705 UnrealEditor-Engine.dll!UWorldPartition::OnEndPlay() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\WorldPartition\WorldPartition.cpp:346]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ffe622506aa UnrealEditor-Engine.dll!TBaseUObjectMethodDelegateInstance<0,UWorldPartition,void __cdecl(void),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:611]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ffe6475ebed UnrealEditor-UnrealEd.dll!TMulticastDelegate<void __cdecl(void),FDefaultDelegateUserPolicy>::Broadcast() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:967]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ffe65250c73 UnrealEditor-UnrealEd.dll!UEditorEngine::EndPlayMap() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:335]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ffe64c3fa40 UnrealEditor-UnrealEd.dll!UEditorEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:2097]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ffe655caac6 UnrealEditor-UnrealEd.dll!UUnrealEdEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdEngine.cpp:474]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ff6d33582f6 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5215]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ff6d3370d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ff6d3370e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ff6d3373c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ff6d3385564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.09.29-18.36.48:782][728]LogOutputDevice: Error: [Callstack] 0x00007ff6d3388736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.09.29-18.36.48:783][728]LogOutputDevice: Error: [Callstack] 0x00007ffedacc7034 KERNEL32.DLL!UnknownFunction []
+[2022.09.29-18.36.48:783][728]LogOutputDevice: Error: [Callstack] 0x00007ffedb3c26a1 ntdll.dll!UnknownFunction []
+[2022.09.29-18.36.48:783][728]LogOutputDevice: Error: 
